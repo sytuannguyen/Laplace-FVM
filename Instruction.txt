@@ -1,4 +1,4 @@
-Run the notebook laplace-fvm-rectangle to reproduce the figures 1 to 4
-Run the notebook laplace-fvm-borehole-2d to reproduce the figures 5
-Run the notebook laplace-fvm-fracture to reproduce the figures 6 and 7
-Run the notebook laplace-fvm-inclined-poiseuille-fracture to reproduce the figure 8
+Run the notebook laplace-fvm-rectangle.ipynb to reproduce the figures 1 to 4
+Run the notebook laplace-fvm-borehole-2d.ipynb to reproduce the figures 5
+Run the notebook laplace-fvm-fracture.ipynb to reproduce the figures 6 and 7
+Run the notebook laplace-fvm-inclined-poiseuille-fracture.ipynb to reproduce the figure 8
